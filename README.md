@@ -1,6 +1,6 @@
 # snake
 snake game with Apple Basic ||
-![](https://github.com/metidev/snake/blob/main/20230619_180747.mp4)
+![](https://github.com/metidev/snake/blob/main/20230626_000341.gif)
 Introducing a Nostalgic Snake Game in Apple Basic || Language!
 
 Relive the golden era of gaming with my GitHub project, a classic snake game inspired by the beloved Apple Basic || language. This project takes you back in time, capturing the essence of retro gaming with its pixelated graphics and simple yet addictive gameplay.
