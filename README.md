@@ -1,6 +1,6 @@
 # snake
 snake game with Apple Basic ||
-
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/metidev/snake/blob/main/20230619_180747.mp4))
 
 Introducing a Nostalgic Snake Game in Apple Basic || Language!
 
